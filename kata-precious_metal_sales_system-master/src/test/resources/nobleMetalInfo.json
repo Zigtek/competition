@@ -1,0 +1,17 @@
+
+    [{
+      "goodSaleName":"世园会五十国钱币册",
+      "product":"001001",
+   	  "unit":"册",
+      "price":998.00
+      
+    },
+    {
+      "goodSaleName":"中国银象棋12g",
+      "product":"002003",
+   	  "unit":"套",
+      "price": 698.00,
+      "fullReduction": "每满3000元减350,每满2000减30,每满1000减10",
+      "discount":"可使用9折打折券"
+    }]
+
